@@ -1,0 +1,28 @@
+# Python cache/compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# PowerPoint files (generated outputs)
+powerpoint/*.pptx
+!powerpoint/template.pptx   # keep the template tracked
+
+##CSV files
+datasets/merged_sp500.csvdatasets/merged_sp500.csv
+*.csv
