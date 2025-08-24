@@ -9,12 +9,12 @@ You can see the full list of companies [here](datasets/companies.csv).
 
 
 
-you will have the chance to input a single date gitand get these in the powerpoint sildes:
+you will have the chance to input a single date and get these in the powerpoint sildes:
 
 
- I. a chart of comparison between the stock prices Vs. S&P500 on that day.
+ I. a chart of comparison between the desired stock price Vs. average stock price.
 
- II. a sentence mentioning the stock symbol(ticker), the date, and whether it has under or overperformed S&P500 index
+ II. a sentence mentioning the stock symbol(ticker), the date, and whether it has under or overperformed S&P500 average
 
  III. price of a certain stock across time (weekly, monthly, annualy) and a comparison agasint S&P index
 
